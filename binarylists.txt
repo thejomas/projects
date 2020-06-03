@@ -1,0 +1,7 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+binary lists:
+Double linked lists. Med pointers til hvert 2^i element.
+Memory = n+lg(n) = O(n)
+For at finde et element tager det i worstcase n/2 = O(n) tid? Average Case?
